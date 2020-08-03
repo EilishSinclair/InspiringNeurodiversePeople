@@ -1,6 +1,3 @@
-// Jess How Do I Put The Header Component Title (Dyscalculia Foundation)
-// Up to the top of the page before Further Information About Dyscalculia?
-
 import React from 'react'
 import { Link } from 'react-router-dom'
 
