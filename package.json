@@ -32,26 +32,26 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.19.5",
-    "react-router-dom": "^5.1.1",
-    "sqlite3": "^4.1.0",
-    "superagent": "^5.1.0"
+    "react-router-dom": "^5.2.0",
+    "sqlite3": "^4.2.0",
+    "superagent": "^5.3.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.2",
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
-    "@babel/preset-env": "^7.6.2",
-    "@babel/preset-react": "^7.0.0",
+    "@babel/core": "^7.11.0",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^24.9.0",
-    "babel-loader": "^8.0.6",
-    "enzyme": "^3.10.0",
-    "enzyme-adapter-react-16": "^1.14.0",
+    "babel-loader": "^8.1.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
     "jest": "^24.9.0",
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1",
-    "webpack": "^4.41.0",
-    "webpack-cli": "^3.3.9",
-    "webpack-dev-server": "^3.8.1"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
   }
 }
