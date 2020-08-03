@@ -1,2 +1,5 @@
 node_modules
 Dyscalculia_Foundation
+.DS_Store
+bundle.js
+bundle.js.map
