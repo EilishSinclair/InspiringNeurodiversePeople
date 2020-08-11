@@ -2,7 +2,7 @@
 
 This is a personal project that I am currently working on. [need a ‘why’ here – what is your purpose/motivation for this project?]
 
-`MVP (Minimum Viable Project)`
+* MVP (Minimum Viable Project)
 
 Inspiring Neurodiverse People will display a list of the people that inspire me from around the world. There will be a picture and name for each of the inspiring people and I will use icons to display an indication of what they do. There will be a navigation bar filled with links to find out further information about these inspiring people, for visitors who are interested in learning more..
 
@@ -10,7 +10,7 @@ On the navigation bar there will be links which will take the user to the page t
 
 As MVP I will start with four inspiring people with the intention to keep building this list.
 
-`Stretch`
+* Stretch
  
 1.	Remove the Dyscalculia image and find a new one. 
 2.	Add some styling to the website, for example a navigation bar, header and footer.
