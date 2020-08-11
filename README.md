@@ -1,6 +1,6 @@
 # Inspiring Neurodiverse People
 
-This is a personal project that I am currently working on. [need a ‘why’ here – what is your purpose/motivation for this project?]
+This is a personal project that I am currently working on.
 
 * MVP (Minimum Viable Project)
 
@@ -19,8 +19,7 @@ As MVP I will start with four inspiring people with the intention to keep buildi
 
 ## Technologies
 
-HTML, Node.
-Express, React, API’s, HTML, CSS, JavaScript, SQLite, Jest, Enzyme, Node. 
+HTML, Express, React, API’s, HTML, CSS, JavaScript, SQLite, Jest, Node. 
 
 ## Under Construction 
 ![](images/InspiringNeurodiversePeople.png)
